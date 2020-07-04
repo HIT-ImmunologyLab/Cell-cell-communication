@@ -1,5 +1,5 @@
-<h3>1.Curated list of immune-related receptors and ligands.xls 2020/7/3<br>
-  <strong>link:</strong> https://www.nature.com/articles/s41586-020-2424-4</h3>
+<h3>1.Curated list of immune-related receptors and ligands.xls 2020/7/3<br></h3>
+<strong>link:</strong> https://www.nature.com/articles/s41586-020-2424-4
 <strong>reference:</strong>Thomas Krausgruber*, Nikolaus Fortelny*, Victoria Fife-Gernedl, Martin Senekowitsch, Linda C. Schuster, Alexander Lercher, Amelie Nemc, Christian Schmidl, André F. Rendeiro, Andreas Bergthaler and Christoph Bock. Structural cells are key regulators of organ-specific immune responses. Nature (2020), doi: 10.1038/s41586-020-2424-4 <br>
 <strong>description:</strong>  The authors quantified the aggregated activity of various immune gene modules, which were manually curated to capture important components of the immune system (Extended Data Fig. 4b, Supplementary Table 4). They observed widespread activity of these immune gene modules in structural cells, with highly cell-type-specific and organ-specific patterns.<br>
 <strong>url</strong>:https://www.medical-epigenomics.org/papers/krausgruber2019/ or https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2424-4/MediaObjects/41586_2020_2424_MOESM5_ESM.xls
